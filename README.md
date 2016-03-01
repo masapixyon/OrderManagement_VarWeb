@@ -30,7 +30,7 @@
 
 キーワードに記述せずに検索を行うと、全てのデータが表示される。（使えるのでそのまま）
 
-<img src="https://github.com/masapixyon/OrderManagement_VarWeb/blob/master/gif/SearchAndDeletion.gif" width="700">
+<img src="https://github.com/masapixyon/OrderManagement_VarWeb/blob/master/gif/SearchAndDeletionWeb.gif" width="700">
 
 
 ####エラー項目
