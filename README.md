@@ -22,7 +22,7 @@
 <img src="https://github.com/masapixyon/OrderManagement_VarWeb/blob/master/gif/RegistrationWeb.gif" width="700">
 
 
-####受注検索削除
+####受注検索と受注削除
 
 <img src="https://github.com/masapixyon/OrderManagement_VarWeb/blob/master/gif/SearchAndDeletionWeb.gif" width="700">
 
