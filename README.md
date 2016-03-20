@@ -19,17 +19,10 @@
 
 ##Demo
 ####受注登録
-
-日付の登録では、登録月に存在しない日を選択された場合は、エラーにしています。
-
 <img src="https://github.com/masapixyon/OrderManagement_VarWeb/blob/master/gif/RegistrationWeb.gif" width="700">
 
 
 ####受注検索削除
-
-キーワードで検索されますが、データベースの仕様上、
-
-キーワードに記述せずに検索を行うと、全てのデータが表示される。（使えるのでそのまま）
 
 <img src="https://github.com/masapixyon/OrderManagement_VarWeb/blob/master/gif/SearchAndDeletionWeb.gif" width="700">
 
